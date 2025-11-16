@@ -1,0 +1,5 @@
+{
+  "name": "HR Job BD",
+  "description": "A modern job portal application for Bangladeshi job seekers. It features separate views for general users and an admin panel for job management.",
+  "requestFramePermissions": []
+}
